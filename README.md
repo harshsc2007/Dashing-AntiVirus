@@ -1,3 +1,3 @@
 # Kilo-Antivirus
-Antivrus Renamed
+Antivrus Renamed.
 This antivirus cannot remove virus it is just for model/Template
